@@ -49,7 +49,7 @@ This extension:
 ## Links
 
 - Website: [pdfcraft.gitu.net](https://pdfcraft.gitu.net)
-- GitHub: [github.com/PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
+- GitHub: [github.com/PDFCraftTool/pdfcraft](https://github.com/citybree/pdf_craft)
 
 ## License
 
